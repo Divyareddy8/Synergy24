@@ -1,4 +1,4 @@
-Here’s a **GitHub README file** tailored to your project:
+Here’s the enhanced **README** for your **Urban Project** with images added to the **Tech Stack** section for better visual appeal:
 
 ---
 
@@ -20,13 +20,14 @@ Here’s a **GitHub README file** tailored to your project:
 
 ## 🛠️ Tech Stack  
 
-| **Technology** | **Purpose**                       |  
-|-----------------|-----------------------------------|  
-| React           | Front-End Development            |  
-| Spring Boot     | Back-End Framework               |  
-| Maven           | Dependency Management            |  
-| Java            | Application Logic and Middleware |  
-| C++             | Performance-Intensive Modules    |  
+| **Technology**   | **Purpose**                       | **Logo**                                                                                     |  
+|-------------------|-----------------------------------|---------------------------------------------------------------------------------------------|  
+| **React**         | Front-End Development            | ![React](https://img.icons8.com/color/48/000000/react-native.png)                           |  
+| **Spring Boot**   | Back-End Framework               | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)                      |  
+| **Maven**         | Dependency Management            | ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png)                           |  
+| **Java**          | Application Logic and Middleware | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)                   |  
+| **C++**           | Performance-Intensive Modules    | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)                         |  
+| **MongoDB**       | NoSQL Database for Data Storage  | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)                              |  
 
 ---
 
@@ -45,8 +46,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/YourUsername/UrbanProject.git  
-   cd UrbanProject  
+   git clone https://github.com/kodercrish/Urban-Crap  
+   cd Urban-Crap  
    ```  
 
 2. **Set Up the Front-End**  
@@ -60,33 +61,22 @@ Ensure you have the following installed:
      ```  
    - Start the development server:  
      ```bash  
-     npm start  
+     npm run dev  
      ```  
 
 3. **Set Up the Back-End**  
    - Navigate to the `backend` directory:  
      ```bash  
-     cd backend  
+     cd UC-Backend  
      ```  
    - Build and run the Spring Boot application:  
      ```bash  
      mvn spring-boot:run  
-     ```  
+     ```   
 
-4. **Compile and Integrate C++ Modules**  
-   - Navigate to the `cpp` directory:  
-     ```bash  
-     cd cpp  
-     ```  
-   - Compile the C++ code:  
-     ```bash  
-     g++ -o module_name module_name.cpp  
-     ```  
-   - Ensure proper linkage with the back-end.  
-
-5. **Access the Application**  
-   - Open your browser and navigate to `http://localhost:3000` for the front-end.  
-   - Back-end APIs will be accessible at `http://localhost:8080`.  
+4. **Access the Application**  
+   - Open your browser and navigate to `http://localhost:5173/` to open the website.  
 
 ---
 
+Feel free to add or adjust the icons as per your preference! You can also use an external service like [Icons8](https://icons8.com/) for additional images.
