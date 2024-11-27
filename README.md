@@ -83,4 +83,4 @@ Your Urban Crap application is now ready to go! Explore and enhance urban living
 
 --- 
 
-This version uses engaging symbols to make your README visually appealing and professional.
+
