@@ -1,9 +1,11 @@
-# Urban Project 🌆  
+---
+
+# Urban Crap 🌆  
 **Transforming urban living by offering seamless service solutions within Bangalore.**  
 
 ---
 
-## 📋 Features  
+## ✨ Features  
 
 - 🏙️ **City-Focused Services:** Tailored solutions exclusively for residents of Bangalore.  
 - 📍 **Location-Based Assistance:** Intelligent service matching based on user location.  
@@ -16,13 +18,13 @@
 
 ## 🛠️ Tech Stack  
 
-| **Technology**   | **Purpose**                       | **Logo**                                                                                     |  
-|-------------------|-----------------------------------|---------------------------------------------------------------------------------------------|  
-| **React**         | Front-End Development            | ![React](https://img.icons8.com/color/48/000000/react-native.png)                           |  
-| **Spring Boot**   | Back-End Framework               | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)                      |                            |  
-| **Java**          | Application Logic  | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)                   |  
-| **C++**           | Performance-Intensive Calculations    | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)                         |  
-| **MongoDB**       | NoSQL Database for Data Storage  | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)                              |  
+| **🖥️ Technology**   | **⚙️ Purpose**                     | **🌟 Logo**                                                                               |  
+|-----------------------|------------------------------------|-----------------------------------------------------------------------------------------|  
+| **React**             | Front-End Development            | ![React](https://img.icons8.com/color/48/000000/react-native.png)                       |  
+| **Spring Boot**       | Back-End Framework               | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)                  |  
+| **Java**              | Application Logic                | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)                |  
+| **C++**               | Performance-Intensive Calculations| ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)                     |  
+| **MongoDB**           | NoSQL Database for Data Storage  | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)                          |  
 
 ---
 
@@ -30,22 +32,22 @@
 
 Follow these steps to set up and run the project locally:  
 
-### Prerequisites  
+### 🔧 Prerequisites  
 Ensure you have the following installed:  
-- **Node.js and npm** (for React)  
-- **Java JDK 11+**  
-- **Maven**  
-- **GCC/G++** (for C++ modules)  
+- 🛠️ **Node.js and npm** (for React)  
+- ☕ **Java JDK 11+**  
+- 🧩 **Maven**  
+- 🔢 **GCC/G++** (for C++ modules)  
 
-### Steps  
+### 🚀 Steps  
 
-1. **Clone the Repository**  
+1. **📂 Clone the Repository**  
    ```bash  
    git clone https://github.com/kodercrish/Urban-Crap  
    cd Urban-Crap  
    ```  
 
-2. **Set Up the Front-End**  
+2. **🌐 Set Up the Front-End**  
    - Navigate to the `frontend` directory:  
      ```bash  
      cd frontend  
@@ -59,7 +61,7 @@ Ensure you have the following installed:
      npm run dev  
      ```  
 
-3. **Set Up the Back-End**  
+3. **🔧 Set Up the Back-End**  
    - Navigate to the `backend` directory:  
      ```bash  
      cd UC-Backend  
@@ -69,7 +71,17 @@ Ensure you have the following installed:
      mvn spring-boot:run  
      ```   
 
-4. **Access the Application**  
-   - Open your browser and navigate to `http://localhost:5173/` to open the website.  
+4. **🌐 Access the Application**  
+   - Open your browser and navigate to:  
+     ```  
+     http://localhost:5173/  
+     ```  
 
 ---
+
+## 🎉 Get Started  
+Your Urban Crap application is now ready to go! Explore and enhance urban living for the residents of Bangalore! 🚀  
+
+--- 
+
+This version uses engaging symbols to make your README visually appealing and professional.
