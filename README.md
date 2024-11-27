@@ -19,10 +19,9 @@
 | **Technology**   | **Purpose**                       | **Logo**                                                                                     |  
 |-------------------|-----------------------------------|---------------------------------------------------------------------------------------------|  
 | **React**         | Front-End Development            | ![React](https://img.icons8.com/color/48/000000/react-native.png)                           |  
-| **Spring Boot**   | Back-End Framework               | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)                      |  
-| **Maven**         | Dependency Management            | ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png)                           |  
-| **Java**          | Application Logic and Middleware | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)                   |  
-| **C++**           | Performance-Intensive Modules    | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)                         |  
+| **Spring Boot**   | Back-End Framework               | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)                      |                            |  
+| **Java**          | Application Logic  | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)                   |  
+| **C++**           | Performance-Intensive Calculations    | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)                         |  
 | **MongoDB**       | NoSQL Database for Data Storage  | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)                              |  
 
 ---
