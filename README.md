@@ -1,7 +1,3 @@
-Here’s the enhanced **README** for your **Urban Project** with images added to the **Tech Stack** section for better visual appeal:
-
----
-
 # Urban Project 🌆  
 **Transforming urban living by offering seamless service solutions within Bangalore.**  
 
@@ -78,5 +74,3 @@ Ensure you have the following installed:
    - Open your browser and navigate to `http://localhost:5173/` to open the website.  
 
 ---
-
-Feel free to add or adjust the icons as per your preference! You can also use an external service like [Icons8](https://icons8.com/) for additional images.
